@@ -1,0 +1,14 @@
+.select_box {
+  :global {
+    .ant-select-selector {
+      position: relative;
+
+      border: 0px solid #fff !important;
+      // border-radius: 50px !important;
+      border-color: #ffffff !important;
+      box-shadow: none !important;
+
+      transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+    }
+  }
+}
